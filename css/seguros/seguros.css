@@ -24,6 +24,7 @@
 
 .seguros-item h3{
     margin-bottom: 40px;
+    text-transform: uppercase;
 }
 .seguros-item span{
     grid-column: 2;
